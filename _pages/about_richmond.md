@@ -1,0 +1,5 @@
+## Richmond 
+
+Dr. Richmond Wong is an Assistant Professor in Digital Media, where he runs the Creating Ethics Infrastructures Lab.
+
+His research focuses on understanding the social values, ethical issues, and work involved in technology production and use. Specifically, he studies how technology professionals address ethical issues in their work, and how to create the social and organizational conditions that can help support technologists to make ethical decisions. He also develops design-centered approaches to engage groups that create or are impacted by digital technology, to proactively discuss and consider ethical issues related to technology such as privacy or fairness. Richmond's work utilizes qualitative and design-based methods, drawing from science and technology studies, speculative design, and human-computer interaction. He completed his Ph.D. at the University of California Berkeley School of Information, and a postdoc at the UC Berkeley Center for Long-Term Cybersecurity.
