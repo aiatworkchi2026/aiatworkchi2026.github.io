@@ -1,3 +1,3 @@
-## Richmond 
+## Richmond Wong
 
 Dr. Richmond Wong is an Assistant Professor of Digital Media at Georgia Tech's School of Literature, Media, and Communication. He directs the Creating Ethics Infrastructures Lab, where his research focuses on creating social, cultural, and organizational environments to support ethical decision-making among technologists and designers. His work utilizes qualitative and design-based methods, drawing from human-computer interaction, science \& technology studies, and speculative design.
