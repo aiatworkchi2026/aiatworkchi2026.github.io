@@ -1,0 +1,3 @@
+## Vera Khovanskaya
+
+Vera is an Assistant Professor at the University of Toronto's Faculty of Information, where she also directs the Labour Process and Technology Lab (Labour Lab). Her research focuses on the intersection of technology and workers' advocacy, examining how data tools and technical expertise impact labor unions and organizing efforts. She specifically studies the past use of workplace data by unions and how contemporary data tools affect current organizing, alongside researching the development of worker-centered software.

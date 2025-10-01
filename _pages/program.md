@@ -25,22 +25,22 @@ Building on the "Show and Tell," participants will break out into small groups. 
 
 ---
 
-##### Journey Mapping (45 minutes)
+##### **Journey Mapping (45 minutes)**
 
 In their small groups, participants will journey map the lifecycle of an AI system from ideation to deployment and maintenance. The goal is to identify and visually represent the key tension points, stakeholder conflicts, and unexpected challenges at each stage.
 
 ---
 
-##### Break (15 minutes)
+##### **Break (15 minutes)**
 
 ---
 
-##### Playbook Prototyping (45 minutes)
+##### **Playbook Prototyping (45 minutes)**
 
 Using insights from the previous activities, each small group will begin to prototype a single "chapter" or section of a collaborative AI adoption playbook. This will focus on a specific recommendation, a key principle, or a set of guiding questions for organizations.
 
 ---
 
-##### Collective Synthesis & Discussion (45 minutes)
+##### **Collective Synthesis & Discussion (45 minutes)**
 
 Groups will share their playbook prototypes with the wider workshop. The focus will be on cross-pollination,refining initial ideas, and identifying common themes and shared challenges that emerged throughout the day.

@@ -1,0 +1,3 @@
+## Frank Bentley
+
+Frank is the Director of UX Research for Material Design at Google and a lecturer at Stanford University. His professional work focuses on creating delightful and equitable user experiences by using mixed-methods research and rapid functional prototyping. Throughout his career at companies like Motorola, Yahoo Labs, and Google, he has explored areas such as mobile search, social media, health technology, and, most recently, driving the design and usability for Material Design.

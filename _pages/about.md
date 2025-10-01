@@ -21,7 +21,7 @@ latest_posts:
 
 # AI at Work: Negotiating Power, Roles, and Responsibility in Organizations
 
-As AI systems become more integrated into daily work, they are no longer just tools, but active agents that reshape professional roles and responsibilities, communication channels, and power dynamics. While much research has focused on the technical development of AI, there remains a critical gap in our understanding of how these systems are adopted, resisted, and negotiated within the complexities of organizational life [CITES]. 
+As AI systems become more integrated into daily work, they are no longer just tools, but active agents that reshape professional roles and responsibilities, communication channels, and power dynamics. While much research has focused on the technical development of AI, there remains a critical gap in our understanding of how these systems are adopted, resisted, and negotiated within the complexities of organizational life. 
 
 A focus on organizational contexts highlights how AI systems reconfigure work at levels beyond individuals' experiences, but are also influenced by broader organizational processes and practices. Often, the promise of increased efficiency clashes with the reality of employee anxieties, unintended consequences, and the need to redesign core business processes. 
 
